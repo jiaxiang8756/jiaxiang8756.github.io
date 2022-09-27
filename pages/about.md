@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: 关于
 description: 栖迟於一丘，则天下不易其乐
 keywords: jiaxiang8756
 comments: true
