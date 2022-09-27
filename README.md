@@ -1,1 +1,1 @@
-1. 本博客由模板 [mzlogin.github.io](https://github.com/mzlogin/mzlogin.github.io) 生成。
+模板来自于 [mzlogin.github.io](https://github.com/mzlogin/mzlogin.github.io)
