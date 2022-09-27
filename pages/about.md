@@ -1,8 +1,8 @@
 ---
 layout: page
 title: About
-description: 寻宝之旅，即刻就启程
-keywords: Nanvon
+description: 栖迟於一丘，则天下不易其乐
+keywords: jiaxiang8756
 comments: true
 menu: 关于
 permalink: /about/
@@ -19,7 +19,7 @@ Read-Think-Write-Code
 <li>{{website.sitename }}：<a href="{{ website.url }}" target="_blank">@{{ website.name }}</a></li>
 {% endfor %}
 <li>
-邮箱：<a href="mailto:nanvon@foxmail.com" alt="nanvon@foxmail.com">nanvon@foxmail.com</a>
+邮箱：<a href="mailto:jiaxiangjia@vip.qq.com" alt="jiaxiangjia@vip.qq.com">nanvon@foxmail.com</a>
 </li>
 <li>
 微信公众号：<br />

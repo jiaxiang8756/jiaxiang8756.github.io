@@ -133,19 +133,19 @@ disqus:
 # https://imsun.net/posts/gitment-introduction/
 gitment:
     owner: jiaxiang8756
-    repo: blog-comments
+    repo: jiaxiang8756.github.io
     oauth:
         client_id: e0a61cbfac6d8ecc7c3e
         client_secret: 8da8b2baee0f87f7bfd590be3e90662d10b5fb54
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: jiaxiang8756
-    repo: blog-comments
+    repo: jiaxiang8756.github.io
     clientID: 4f7879414dec361d8f2f
     clientSecret: af0e3a345cecb7f7acc29408cb4a3a0069bb144c
 # https://utteranc.es/
 utterances:
-    repo: blog-comments
+    repo: jiaxiang8756.github.io
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
