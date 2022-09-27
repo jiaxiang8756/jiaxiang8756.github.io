@@ -4,10 +4,9 @@
 baseurl:
 url: https://jiaxiang8756.github.io
 date_format: "ordinal"
-title: 南枫的寻宝之旅
-# subtitle: "公众号：南枫的寻宝之旅(ID:nanvon_hsu)"
-description: "寻宝之旅，即刻就启程"
-keywords: 南枫Von, Nanvon, 阅读, 写作, 代码
+title: 栖迟於一丘
+description: "栖迟於一丘，则天下不易其乐"
+keywords: 笔记, C#, CIL, 写作, 代码
 timezone: Asia/Hefei
 encoding: "utf-8"
 repository: jiaxiang8756/jiaxiang8756.github.io
@@ -25,7 +24,7 @@ components:
     # 不蒜子访问统计
     busuanzi:
         enabled: true
-        start_date: 2022-02-08
+        start_date: 2022-10-01
     # My Popular Repositories
     side_bar_repo:
         enabled: false
@@ -51,12 +50,12 @@ highlight_theme: github
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: 南枫Von
+author: 贾宏祥
 organization: 
 organization_url: 
-github_username: nanvon
+github_username: jiaxiang8756
 location: Hefei, China
-email: nanvon@foxmail.com
+email: jiaxiangjia@vip.qq.com
 
 # ---------------- #
 #    Navigation    #
@@ -133,17 +132,17 @@ disqus:
     username: 
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: nanvon
+    owner: jiaxiang8756
     repo: blog-comments
     oauth:
-        client_id: 0138102791d3aa0c948a
-        client_secret: cdf48d79efcab6af885f22c76c1f3bcb918466c0
+        client_id: e0a61cbfac6d8ecc7c3e
+        client_secret: 8da8b2baee0f87f7bfd590be3e90662d10b5fb54
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: nanvon
+    owner: jiaxiang8756
     repo: blog-comments
-    clientID: 0138102791d3aa0c948a
-    clientSecret: cdf48d79efcab6af885f22c76c1f3bcb918466c0
+    clientID: 4f7879414dec361d8f2f
+    clientSecret: af0e3a345cecb7f7acc29408cb4a3a0069bb144c
 # https://utteranc.es/
 utterances:
     repo: blog-comments
